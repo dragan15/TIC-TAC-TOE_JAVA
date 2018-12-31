@@ -1,2 +1,2 @@
 # TIC-TAC-TOE_JAVA
-stimulates a tic-tac -toe game, between two players
+An interactive Tic-Tac-Toe game, written in Java. Allows two individuals to play against each other
